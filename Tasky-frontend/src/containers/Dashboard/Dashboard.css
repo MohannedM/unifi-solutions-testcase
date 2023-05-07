@@ -1,0 +1,13 @@
+.full-row{
+    height: 85vh;
+    width: 100vw;
+}
+
+.nav-link{
+    color: #001c7f;
+}
+
+.scorllable-div{
+    overflow-y: auto;
+    height: 62vh;
+}
